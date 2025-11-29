@@ -9,11 +9,11 @@ AutoHotKey kept giving false positives after compiling the code, and I thought t
 I used chatgpt for this, so this code might be a mess but it works.
 
 
-##Installation
+## Installation
 pyinstaller --onefile --icon=app_icon.ico your_script.py
 
 
-##How to use
+## How to use
 - Open Back To Work.exe.
 - Open the MENU, select one of the three "Program" slots.
 - Click on the program/window you want to be linked to the timer.
@@ -22,7 +22,7 @@ pyinstaller --onefile --icon=app_icon.ico your_script.py
 - Use "Reset Timer" to get the timer to zero (You can still resume your previous time).
 - You can use any other image just by renaming it "maia.png" and having it on the same folder as the .exe.
 
-#Credits 
+## Credits 
 - Original timer:
   Neil Cicierega
   https://neilblr.com
