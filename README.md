@@ -11,7 +11,7 @@ I used chatgpt for this, so this code might be a mess but it works.
 
 ## Installation
 ```
-pyinstaller --onefile --icon=app_icon.ico your_script.py
+pyinstaller --onefile --icon=maia.ico work_timer.py
 ```
 
 
