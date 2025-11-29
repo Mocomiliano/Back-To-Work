@@ -23,6 +23,12 @@ pyinstaller --onefile --icon=app_icon.ico your_script.py
 - You can use any other image just by renaming it "maia.png" and having it on the same folder as the .exe.
 
 #Credits 
-- Original timer: Neil Cicierega - https://neilblr.com
-- Vtuber in the meme: Ichika Maia - https://x.com/ichikamaia | https://www.twitch.tv/maia | https://www.youtube.com/channel/UCuKuBKEK3YIVgWW_2KJ4Htw
-- Meme: maplesights https://x.com/maplesights
+- Original timer:
+  Neil Cicierega
+  https://neilblr.com
+- Vtuber in the meme:
+  Ichika Maia
+  https://x.com/ichikamaia | https://www.twitch.tv/maia | https://www.youtube.com/channel/UCuKuBKEK3YIVgWW_2KJ4Htw
+- Meme:
+  maplesights
+  https://x.com/maplesights
