@@ -20,7 +20,7 @@ pyinstaller --onefile --icon=maia.ico work_timer.py
 - Open the MENU, select one of the three "Program" slots.
 - Click on the program/window you want to be linked to the timer.
 - The timer will only move while you are active on a linked program.
-- Use "Resume Previous Timer" to continue from the same time you had when the last time the timer was closed.
+- Use "Resume Previous Timer" to continue from the same time you had the last time the timer was closed.
 - Use "Reset Timer" to get the timer to zero (You can still resume your previous time).
 - You can use any other image just by renaming it "maia.png" and having it on the same folder as the .exe.
 
